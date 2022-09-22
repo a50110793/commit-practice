@@ -28,11 +28,11 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 : O
-   - 이유 :
+   - 답 : X
+   - 이유 : 3번째 공간은 Rapository이다
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
    - 답 : X
-   - 이유 : 한번만 작성 가능하다
+   - 이유 : 커밋 아이디는 고유한 값이어야 각 커밋을 구분할 수 있기 때문
